@@ -19,7 +19,7 @@ We don't own the rights to any of these images.
 
 ## Author
 
-Authored and maintained by schnappi from sharkive.
+Authored and maintained by arktn from sharkive.
 
-> GitHub [@schnappi21](https://github.com/schnappi21)<br>
+> GitHub [@arktn](https://github.com/arktn)<br>
 > GitHub [@sharkive](https://github.com/sharkive)
